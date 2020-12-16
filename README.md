@@ -2,7 +2,7 @@
 
     <head>
         <link rel="stylesheet" href="style.css"> <!--Ajouter le fichier css-->
-        <link href="fontawesome-free-5.15.1-web/css/all.css" rel="stylesheet"> <!--Faire télécharger la police-->
+        <link href="/fontawesome-free-5.15.1-web/css/all.css" rel="stylesheet"> <!--Faire télécharger la police-->
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Reservia</title>
